@@ -58,6 +58,13 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "rest-api-fastapi",
+      "title": "REST API with FastAPI",
+      "description": "Building RESTful APIs using FastAPI framework with HTTP methods and request/response handling",
+      "path": "assignments/rest-api-fastapi",
+      "dueDate": "2026-03-31"
     }
   ]
 }
